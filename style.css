@@ -1,0 +1,270 @@
+.logo {
+    margin: 40px 470px 40px 80px;
+    float: left;
+    display: block;
+} 
+.nav {
+    float: left;
+    display: block;
+    margin: 50px 0 0 80px;
+}
+.a {
+    text-decoration: none;
+    margin: 0 80px 0 0;
+    font-size: 18px;
+}
+.button {
+    float: left;
+    display: block;
+    margin: 35px 35px 35px 370px;
+    width: 150px;
+    height: 35px;
+    text-align: center;
+    padding-top: 13px;
+}
+.choh:hover {
+    transition: 0.1;
+
+}
+.choh {
+    border: 2px solid #F7941E;    ;
+    border-radius: 6px;
+    height: 25px;
+    padding: 5px;
+    color: #F7941E;
+    
+}
+.btn {
+    text-decoration: none;
+
+}
+body {
+    font-family:'Poppins', sans-serif;
+}
+header {
+    height: 150px;
+}
+.container {
+    flex-wrap: wrap;
+    flex-basis: max-content;
+}
+.block1 {
+    float: left;
+    display: block;
+    background-color: #F1F1F2;    
+    width: 50%;
+    height: 700px;
+}
+.block2 {
+    float: left;
+    display: block;
+    width: 50%;
+    background-color:#F1F1F2;
+    height: 700px;
+}
+.block3 {
+    float: left;
+    display: block;    
+    width: 50%;
+    height: 700px;
+}
+.block4 {
+    float: left;
+    display: block;   
+    width: 50%;
+    height: 700px;
+}
+.text1 {
+    font-size: 55px;
+    padding-left: 360px;
+    margin-top: 130px;
+}
+.text2 {
+    padding-left: 360px;
+}
+.text3 {
+    margin-top: 130px;
+    font-size: 30px;
+    padding-left: 150px;
+}
+.text4 {
+    width: 380px;
+    padding-left: 150px;
+}
+.photo1 {
+    padding-left: 205px;
+}
+.container {
+    height: 1300px;
+}
+.container2 {
+    width: 1100px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 100px;
+}
+.title {
+    font-size: 30px;
+    text-align: center;
+}
+.textaftertitle {
+    text-align: center;
+    margin-bottom: 50px;
+}
+.giftblock {
+    width: 25%;
+    height: 430px;
+    background-color:#FAFAFA;
+    margin: 0 20px 0 20px;
+}
+.bgphoto {
+    background-size: cover;
+    width: 100%;
+}
+.giftblock:hover {
+    transition: 0.3s;
+    box-shadow: -15px 15px 15px #c2c2c2;
+}
+.strelcabutton {
+    margin: 50px 0 40px 30px;
+    font-size: 14px;
+}
+.titleblock {
+    margin-left: 30px;
+    font-size: 18px;
+}
+.mainblock {
+  display: flex;
+}
+.yellowtext {
+    display: block;
+    float: left;
+    width: 50%;
+    background-color: #F7941E;
+    text-align: center;
+    padding-top: 100px;
+    font-size: 32px;
+
+}
+.buttonblock {
+    display: block;
+    float: left;
+    width: 50%;
+    background-color: #F7941E;
+    margin-top: 150px;
+
+}
+.yellowblock {
+    height: 350px;
+    background-color: #F7941E;
+}
+.yellowbutton {
+    display: block;
+    float: left;
+    margin: 0 40px 0 40px;
+    border: 2px solid #000;
+    border-radius: 8px;
+    height: 45px;
+    width: 250px;
+    text-align: center;
+    padding-top: 18px;
+    font-size: 22px;
+}
+.yellowlink {
+    text-decoration: none;
+    color: #000;
+}
+.yellowlink:hover {
+    color: #fff;
+}
+.yellowbutton:hover {
+    background: #000;
+    transition: 0.2s;
+}
+
+.lastmain {
+    width: 1200px;
+    margin: auto;
+}
+.surt {
+    display: block;
+    float: left;
+
+}
+.blackblock2 {
+    display: block;
+    float: left;
+}
+.lastcontainer {
+    margin-top: 80px;
+    margin-bottom: 50px;
+}
+
+.blackblock {
+    height: 370px;
+    background: #231F20;
+
+}
+.blackblock2 {
+    padding: 60px 0 50px 80px;
+}
+.whiteblock {
+    display: block;
+    float: left;
+    width: 40%;
+    margin-top: 100px;
+    padding: 40px;
+}
+.whiteblock:hover {
+    transition: 0.3s;
+    box-shadow: -15px 15px 15px #c2c2c2;
+}
+.palbu {
+    height: 280px;
+    margin-top: 20px;
+}
+.mice {
+    font-size: 22px;
+}
+.lasttext {
+    text-align: center;
+    margin-bottom: 80px;
+}
+.ourb {
+    font-size: 28px;
+}
+.bestw {
+    color: #fff;
+}
+.footer {
+    width: 1000px;
+    margin: auto;
+    
+    padding-top: 150px;
+}
+.b {
+    text-decoration: none;
+    margin: 0 80px 0 30px;
+    font-size: 15px;
+    color: #000;
+}
+.c { 
+    margin: 0 180px 0 100px;
+}
+.lastnaw {
+    margin-bottom: 100px;
+}
+.lasticons {
+    margin: 100px 20px 100px 20px;
+}
+.icons {
+    margin-left: 250px;
+}
+.terms {
+    margin-left: 350px;
+}
+.footer1 {
+    background: #FAFAFA;
+    height: 700px;
+    margin-top: 150px;
+}
